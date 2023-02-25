@@ -1,0 +1,2 @@
+D:\dnsProject\ConsoleApp2\obj\Release\ConsoleApp2.csprojAssemblyReference.cache
+D:\dnsProject\ConsoleApp2\obj\Release\ConsoleApp2.csproj.CoreCompileInputs.cache
